@@ -8,8 +8,8 @@ and I used Bootstrap for the design work.
 
 <h1>How it works*: </h1>
 <h3>1. Enter credit card number into the form.</h3><Br>
-![alt tag](https://github.com/harmankang/sku-program/blob/master/1.png)
+![alt tag](https://github.com/harmankang/credit-card-validation/blob/master/1.png)
 <h3>2. Press validate.</h3><Br>
-![alt tag](https://github.com/harmankang/sku-program/blob/master/2.png)
+![alt tag](https://github.com/harmankang/credit-card-validation/blob/master/2.png)
 
 <h6 style="color: gray;">*You must be able to run PHP scripts in your browser.</h6>
