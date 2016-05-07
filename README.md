@@ -20,4 +20,6 @@ and I used Bootstrap for the design work.
 <hr>
 
 <h4>Details</h4>
-<p>My function (findVendor()) currently detects most MasterCard, Visa, and Amex numbers. Feel free to add other vendors like Discover and Diners club. <br> Thanks for reading!</p>
+<p>My function, findVendor(), currently detects most MasterCard, Visa, and Amex numbers. Feel free to add other vendors like Discover and Diners Club.</p>
+
+<p> Thanks for reading!</p>
