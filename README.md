@@ -7,7 +7,7 @@ Simple interface requires only a credit card number to check if it belongs to a 
 and I used Bootstrap for the design work. 
 
 <h3>Test it yourself!</h3>
-<p>Enter in sample credit card numbers from <a href="https://www.paypalobjects.com/en_US/vhelp/paypalmanager_help/credit_card_numbers.htm">here</a>, or enter fake numbers</p>
+<p>Enter in sample credit card numbers from <a href="https://www.paypalobjects.com/en_US/vhelp/paypalmanager_help/credit_card_numbers.htm" target="_blank">here</a>, or enter fake numbers</p>
 
 <h1>How it works*: </h1>
 <h3>1. Enter credit card number into the form.</h3><Br>
