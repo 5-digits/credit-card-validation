@@ -1,7 +1,8 @@
  <?php
-/* Luhn algorithm number checker - (c) 2005-2008 shaman - www.planzero.org *
- * This code has been released into the public domain, however please      *
- * give credit to the original author where possible.                      */
+/* Luhn algorithm number checker
+
+ * Please note I did not author this code; it has been released into the public domain.
+ */
 
 function luhn_check($number) {
 
