@@ -23,7 +23,7 @@ include("includes/findVendor.php");
 	<div class="row">
 		<div class="col-md-12">
 			<h1>Credit card validator</h1>
-			<h4 style="color: gray;">Validates that credit card number is associated with a real vendor (like MasterCard or Visa)</h4>
+			<h4 style="color: gray;">Validates if credit card number is associated with a real vendor (like MasterCard or Visa)</h4>
 			<p style="color: red;">Warning: this system cannot tell if the credit card is real or fake.</p>
 		</div>
 	</div> <br>
