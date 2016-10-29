@@ -10,7 +10,8 @@ and I used Bootstrap for the design work.
 <p>Enter in sample credit card numbers from <a href="https://www.paypalobjects.com/en_US/vhelp/paypalmanager_help/credit_card_numbers.htm" target="_blank">here</a>, or enter fake numbers</p>
 
 <h1>Getting started: </h1>
-<h3>1. Clone repo:</h3>
+<h3>1. Clone repo</h3>
+`git clone https://github.com/harmankang/credit-card-validation.git`
 <h3>2. Run <strong>validate.php</strong></h3><Br>
 
 
