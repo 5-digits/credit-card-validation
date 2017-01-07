@@ -26,11 +26,11 @@ $visa = substr($number, 0, 1);
 $amex = substr($number, 0, 2);
 
 if ($mastercard == 51 || $mastercard == 55) {
-echo '<img src="images/mc.jpg" alt="MasterCard logo" width="120px" height="75px">';
+echo '<img src="assets/mc.jpg" alt="MasterCard logo" width="120px" height="75px">';
 } else if ($visa == 4) {
-echo '<img src="images/visa.png" alt="VISA logo" width="120px" height="90px">';
+echo '<img src="assets/visa.png" alt="VISA logo" width="120px" height="90px">';
 } else if ($amex == 34 || $amex == 37) {
-echo '<img src="images/amex.png" alt="AMEX logo" width="" height="">';
+echo '<img src="assets/amex.png" alt="AMEX logo" width="" height="">';
 } else {
 echo 'Could not find vendor.';
 }
